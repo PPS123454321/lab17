@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    font-family: 'Amatic SC', cursive;
+}
+
+p{
+    margin: 0;
+}
+
+#page1{
+    padding: 5% 13%;
+}
+
+#page1_flex{
+    display: inline-flex;
+}
+
+#heading{
+    font-size: 96px;
+    padding-left: 250px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#page2{
+    padding: 5% 13%;
+}
+
+#page2_flex{
+    display: inline-flex;
+}
+
+#text_p2{
+    font-size: 36px;
+    width: 428px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#leaves_p2{
+    padding: 0 60px;
+}
+
+#page3{
+    padding: 2% 0;
+}
+
+#page3_flex{
+    display: inline-flex;
+    padding: 0 13%;
+}
+
+#photo1_p3{
+    padding-right: 56px;
+}
+
+#separator{
+    width: 130px;
+    height: 543px;
+    background-color: #4F283B;
+}
+
+#photo2_p3{
+    padding-left: 56px;
+}
+
+#text_p3{
+    font-size: 24px;
+    text-align: center;
+    padding-top: 45px;
+}
+
+#page4{
+    padding: 1% 13%;
+}
+
+#photo_p4{
+    display: block;
+    width: 1110px;
+}
+
+#text_p4{
+    font-size: 36px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#page5{
+    padding: 5% 13%;
+}
+
+#page5_flex{
+    display: inline-flex;
+}
+
+#things_p5{
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 0 67px;
+}
+
+#text_p5{
+    text-align: center;
+    font-size: 48px;
+}
+
+#leaves_p5{
+    padding-top: 45px;
+}
+
+#signature{
+    text-align: right;
+    font-size: 24px;
+    padding: 5px;
+}
